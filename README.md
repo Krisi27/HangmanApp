@@ -8,8 +8,11 @@ Users can guess letters to reveal a hidden word. The game tracks remaining guess
 ### Game Screen
 ![Game Screen](./images/hangman-preview.png)
 
-### Failed game
+### Failed Game
 ![Game Screen](./images/hangman-fail.png)
+
+### Successful Game
+![Game Screen](./images/hangman-win.png)
 
 ## Features
 
