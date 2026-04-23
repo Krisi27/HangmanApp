@@ -3,16 +3,13 @@
 A simple Hangman game built with HTML, CSS and JavaScript.  
 Users can guess letters to reveal a hidden word. The game tracks remaining guesses and determines win or lose state.
 
-## Preview
-
-<p align="center">
-  <img src="./images/hangman-preview.png" width="800"/>
-</p>
-
 ## Screenshots
 
 ### Game Screen
 ![Game Screen](./images/hangman-preview.png)
+
+### Failed game
+![Game Screen](./images/hangman-fail.png)
 
 ## Features
 
