@@ -45,5 +45,7 @@ HangmanApp/
 │   └── styles.css
 └── images/
     ├── favicon.jpg
+    ├── hangman-fail.jpg
+    ├── hangman-win.jpg
     └── hangman-preview.png
 
